@@ -17,7 +17,7 @@ An automated biomedical laboratory platform engineered on **Raspberry Pi** for m
 | **Engineer** | **Engr. Hanif Khan** |
 | **Title** | Hardware & Embedded Systems Engineer |
 | **Institution** | Centre of Intelligent Systems & Network Research (CISNR), UET Peshawar |
-| **WhatsApp / Phone** | [+92 311 8221686](https://wa.me/923118221686) |
+| **WhatsApp / Phone** | [+92 315 9915537](https://wa.me/923159915537) |
 | **LinkedIn** | [Engr. Hanif Khan Profile](https://www.linkedin.com/in/engr-hanif-khan-628a04259/) |
 | **Email** | [Hanifullahshams@gmail.com](mailto:Hanifullahshams@gmail.com) |
 
@@ -99,5 +99,5 @@ python3 workflow_steps.py
 
 ## 📞 Support & Inquiries
 For hardware engineering inquiries, circuit design, or embedded software development:
-- **Engr. Hanif Khan** — [+92 311 8221686](https://wa.me/923118221686)
+- **Engr. Hanif Khan** — [+92 315 9915537](https://wa.me/923159915537)
 - **Email:** [Hanifullahshams@gmail.com](mailto:Hanifullahshams@gmail.com)
